@@ -10,6 +10,8 @@ public class FibonacciSeries {
             System.out.print(", " + c);
             a = b;
             b = c;
+
+            System.out.println("I am master");
         }
     }
 }
